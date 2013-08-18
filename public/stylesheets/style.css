@@ -1,0 +1,12 @@
+html {
+        padding: 0;
+        margin: 0;
+        height: 100%;
+}
+
+body {
+        padding: 0;
+        margin: 0;
+        overflow: hidden;
+        background-image:url('http://www.carlwozniak.com/clouds/Graphics/New%20Pix/clouds39.jpg');
+}
