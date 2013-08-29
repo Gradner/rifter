@@ -1,11 +1,9 @@
 rifter
 ======
 
-Simple Three.js combat flight simulator engine
+Simple Three.js combat flight simulator engine (this is the version designed to deploy to heroku, so node modules are not included, run "npm install" from your node shell on the root directory of the game to install dependencies)
 
-Place in web server (does not work if the HTML is run from folder due to browser permission issues)
-
-Once in web server run open localhost/../Riftertest.html
+Once installed, run "node app" to play!
 
 Controls:
 
